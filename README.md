@@ -6,4 +6,4 @@ Implemented the Control Technique Using discrete PI(z) controller and feedback l
 Used Clarke and Park Transformation Blocks to produce required current transformations.
 Achieved a precision of 1 percent in steady state speed response.
 
-Documentation:-[Project_Report](https://docs.google.com/document/d/1PjzgdTqjYryNMx3FeTh6kYRnFnHrTfagwOG5zXAGKU4/edit?usp=sharing)
+Documentation:-[Project_Report](https://docs.google.com/document/d/1wNv-M256SgFhqJFXGNuFzSmDvN_v_s-daTdCRhl--Fw/edit?usp=sharing)
